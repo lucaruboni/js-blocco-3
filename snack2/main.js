@@ -11,7 +11,7 @@ const stringList = [
     'PAPERINO'
 ]
 
-
+console.log(stringList)
 
 
 stringList.forEach((element, index) => {

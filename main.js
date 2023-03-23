@@ -22,7 +22,7 @@ const auto = [
         alimentazione: "benzina" 
     },
 
-    {
+    { 
         marca: "tesla",
         modello: "model x",
         alimentazione: "elettrica" 
